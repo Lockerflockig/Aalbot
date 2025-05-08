@@ -1,0 +1,42 @@
+{
+  "Kleiner Transporter": "KT",
+  "Großer Transporter": "GT",
+  "Leichter Jäger": "LJ",
+  "Schwerer Jäger": "SJ",
+  "Kreuzer": "Xer",
+  "Schlachtschiff": "BS",
+  "Kolonieschiff": "Kolo",
+  "Recycler": "rec",
+  "Spionagesonde": "spio",
+  "Bomber": "BB",
+  "Solar Satellit": "sat",
+  "Zerstörer": "zeri",
+  "Todesstern": "rip",
+  "Schlachtkreuzer": "Sxer",
+
+  "Metallmine": "MM",
+  "Kristallmine": "KM",
+  "Deuteriumsynthetisierer": "DS",
+
+  "Spionagetechnik": "SpioTech",
+  "Computertechnik": "CompTech",
+  "Waffentechnik": "WaffTech",
+  "Schildtechnik": "SchildTech",
+  "Raumschiffpanzerung": "Panzerung",
+
+  "Verbrennungstriebwerk": "Verbrenner",
+  "Impulstriebwerk": "Impuls",
+  "Hyperraumantrieb": "Hyper",
+  "Astrophysik": "Astro",
+
+  "Raketenwerfer": "Rack",
+  "Leichtes Lasergeschütz": "LL",
+  "Schweres Lasergeschütz": "SL",
+  "Gausskanone": "Gauss",
+  "Ionengeschütz": "Ionen",
+  "Plasmawerfer": "Plasma",
+  "Kleine Schildkuppel": "KSchild",
+  "Große Schildkuppel": "GSchild",
+  "Abfangrakete": "ARAK",
+  "Interplanetarrakete": "IRAK"
+}
